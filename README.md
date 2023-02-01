@@ -7,7 +7,7 @@
   - Использование разных варпов для фарма мобов
   
 ## Установка для Windows
-  [Скачать](https://github.com/matswuuu/CristalixModded-AutoFarm/releases/download/v0.0.1/AutoPost.zip), разархировать и запустить main.exe от имени администратора
+  [Скачать](https://github.com/matswuuu/CristalixModded-AutoFarm/releases/download/v0.0.1/AutoFarm.zip), разархировать и запустить main.exe от имени администратора
  
 ### Установка для остальных платформ
   Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные библиотеки
